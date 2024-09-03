@@ -1,0 +1,75 @@
+[
+  {
+    "brand": "Apple",
+    "title": "iPhone 13 CH ",
+    "color": "pink,white,black",
+    "description": "Double camera, Super Retina , high reselousion,wireless charging,face ID ",
+    "avatar": "https://dkstatics-public.digikala.com/digikala-products/ec9a962187e1f82cc47e7a148ef99ec1c6fd024d_1656423336.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+    "price": "41725000T",
+    "id": "1"
+  },
+  {
+    "brand": "MedoPad",
+    "title": "Harry Potter's word MedoPad Notebook ",
+    "color": "multicolor",
+    "description": "50 sheets for writing new words",
+    "avatar": "https://dkstatics-public.digikala.com/digikala-products/bec5a835d58a410f783667a1cf5c229bc39db81d_1715851029.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+    "price": "88000T",
+    "id": "2"
+  },
+  {
+    "brand": "Armani Exchange",
+    "title": "Armani wrist watch model AX2192 ",
+    "color": "Black,Red",
+    "description": "luxury wrist watch for men",
+    "avatar": "https://dkstatics-public.digikala.com/digikala-products/f887aa5f8a47b2ae8a9204e51c687d6cc840eb03_1719230672.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+    "price": "19320000T",
+    "id": "3"
+  },
+  {
+    "brand": "UltraBook",
+    "title": "UltraBook laptab 17inch",
+    "color": "black,White",
+    "description": "corei9",
+    "avatar": "https://dkstatics-public.digikala.com/digikala-products/765375db8ba6853d8e849fade69057bf99a5bfa2_1709424949.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+    "price": "259000000T",
+    "id": "4",
+    "image": "https://dkstatics-public.digikala.com/digikala-products/765375db8ba6853d8e849fade69057bf99a5bfa2_1709424949.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+  },
+  {
+    "brand": "Maya Mahak Gold Gallary",
+    "title": "Gold heart Necklace",
+    "color": "gold",
+    "description": "heart necklace 1 cm",
+    "avatar": "https://dkstatics-public.digikala.com/digikala-products/f5d3b4ce74a5af32efcd8474bccc58dc8dd018eb_1651316472.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+    "price": "3000000T",
+    "id": "5"
+  },
+  {
+    "brand": "LG",
+    "title": "Tv",
+    "color": "Black",
+    "description": "50 inch Lg Tv",
+    "avatar": "https://dkstatics-public.digikala.com/digikala-products/32073fac43a3fab1bb68af8634301182764efedc_1709985533.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+    "price": "18240000T",
+    "id": "6"
+  },
+  {
+    "brand": "unknown",
+    "title": "onDesk Fan",
+    "color": "white,blue",
+    "description": "fan with water splatter",
+    "avatar": "https://dkstatics-public.digikala.com/digikala-products/06860f48c6387957e37b91102f47ee6398896b29_1712807605.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+    "price": "500000T",
+    "id": "7"
+  },
+  {
+    "brand": "unknown",
+    "title": "Makeup Stand",
+    "color": "transparent",
+    "description": "stand of makeup stuff",
+    "avatar": "https://dkstatics-public.digikala.com/digikala-products/9ad1977e7368251a0f33ba79fc742e407ac6161f_1657269432.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+    "price": "167000T",
+    "id": "8"
+  }
+]
