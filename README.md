@@ -25,7 +25,7 @@
 
 - Created - 2024-09-03
 
-- Technologies Used - Html , Css , MaterialUi , Nextjs , React
+- Technologies Used - Html ,  Css , MaterialUi , Nextjs , React
 
 - Hooks Used : useState 
 
