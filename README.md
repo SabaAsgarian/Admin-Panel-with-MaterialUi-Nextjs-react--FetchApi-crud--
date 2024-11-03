@@ -1,7 +1,8 @@
 
 # Admin-Panel-with-MaterialUi-Nextjs-react--FetchApi-crud-- 
  
-- [Demo Project](https://admin-panel-with-material-ui-nextjs-react-fetch-api-crud.vercel.app/)
+- [Demo Project with a sign in](https://admin-panel-with-material-ui-nextjs-react-fetch-api-crud.vercel.app/)
+- [Demo Project without a sign in](https://admin-panel-with-material-ui-nextjs-react-fetch-api-crud.vercel.app/components/dashboard)
 
 
 
