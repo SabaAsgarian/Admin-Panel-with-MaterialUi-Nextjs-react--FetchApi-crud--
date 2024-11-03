@@ -30,7 +30,7 @@
     "brand": "UltraBook",
     "title": "UltraBook laptab 17inch",
     "color": "black,White",
-    "description": "corei9",
+    "description": "no idea",
     "avatar": "https://dkstatics-public.digikala.com/digikala-products/765375db8ba6853d8e849fade69057bf99a5bfa2_1709424949.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
     "price": "259000000T",
     "id": "4",
@@ -71,5 +71,41 @@
     "avatar": "https://dkstatics-public.digikala.com/digikala-products/9ad1977e7368251a0f33ba79fc742e407ac6161f_1657269432.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
     "price": "167000T",
     "id": "8"
+  },
+  {
+    "brand": "Samsong",
+    "title": "Galaxy S24 Ultra",
+    "color": "Black,gold",
+    "description": "Dual Sim",
+    "avatar": "https://dkstatics-public.digikala.com/digikala-products/c23b49b0be1c4ae5b2a3d7a3281d2f1731065243_1726037574.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+    "price": "62800000T",
+    "id": "9"
+  },
+  {
+    "brand": "Oral-B",
+    "title": "Electric ToothBrush",
+    "color": "Black,White",
+    "description": "Chargable",
+    "avatar": "https://dkstatics-public.digikala.com/digikala-products/6fbee0710680a56530117cbc80dada54484689c0_1690897858.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+    "price": "921900T",
+    "id": "10"
+  },
+  {
+    "brand": "Kabir Motors",
+    "title": "MotorCycle",
+    "color": "Black & Yellow",
+    "description": "High Speed in road",
+    "avatar": "https://dkstatics-public.digikala.com/digikala-products/eb3906b34a22a7ffa0023f01297b28602595fc6e_1712150859.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+    "price": "117260000T",
+    "id": "11"
+  },
+  {
+    "brand": "Harman Carden",
+    "title": "Bluetooth Speaker ",
+    "color": "Black",
+    "description": "Luxury speaker",
+    "avatar": "https://dkstatics-public.digikala.com/digikala-products/055860b1f70d18c6b30e5605d0cada36ca7185a8_1623341711.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+    "price": "9999000T",
+    "id": "12"
   }
 ]
