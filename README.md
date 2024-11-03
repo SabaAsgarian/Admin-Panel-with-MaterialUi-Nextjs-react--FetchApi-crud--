@@ -1,5 +1,5 @@
 
-# Admin-Panel-with-MaterialUi-Nextjs-react--FetchApi-crud--
+# Admin-Panel-with-MaterialUi-Nextjs-react--FetchApi-crud-- 
 
 - [Demo Project](https://admin-panel-with-material-ui-nextjs-react-fetch-api-crud.vercel.app/)
 
